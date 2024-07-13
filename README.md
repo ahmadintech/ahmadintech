@@ -13,14 +13,12 @@
 
 # Main Skills #
 
-# Main Skills #
-
 <a href="https://www.php.net/manual/en/index.php"><img src="https://skillicons.dev/icons?i=php" alt="php" height="100" title="PHP documentation"></a>
 <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" height="100" title="Laravel documentation"></a>
 <a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java" alt="java" height="100" title="Java documentation"></a>
 <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" height="100" title=".NET documentation"></a>
 <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" height="100" title="Arduino documentation"></a>
-
+</br>
 
 
 # 💻 My favorite tools and technologies
