@@ -2,16 +2,24 @@
 # Hello! 👋 Who am I? #
 <div>
 <br/>
-- 🔭 Web developer with a year of experience building scalable, high-performance web applications<br/>
+- 🔭 Fullstack Web developer with > 4 years of experience building scalable, high-performance web applications<br/>
 - 🌱 Proficient in back-end technology like PHP and front-end technology<br/>
+- ☕️ Java for Desktop and Web Development: Some experience in developing desktop applications and web solutions using Java.<br/>
+- 🖥️ .Net for Desktop and Mobile Development: Familiar with .Net framework for creating desktop and mobile applications.<br/>
+- 🤖 Arduino for Robotics and IoT: Basic understanding and hands-on experience in developing projects with Arduino for robotics and IoT applications.<br/>
 
 
 </div>
 
 # Main Skills #
 
+# Main Skills #
+
 <a href="https://www.php.net/manual/en/index.php"><img src="https://skillicons.dev/icons?i=php" alt="php" height="100" title="PHP documentation"></a>
-<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="php" height="100" title="Laravel documentation"></a>
+<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" height="100" title="Laravel documentation"></a>
+<a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java" alt="java" height="100" title="Java documentation"></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" height="100" title=".NET documentation"></a>
+<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" height="100" title="Arduino documentation"></a>
 
 
 
