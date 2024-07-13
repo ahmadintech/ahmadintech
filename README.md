@@ -116,8 +116,8 @@
 <p align="center">
 
 
-<a href="https://github.com/projecthanif?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=projecthanif&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@projecthanif's github-readme-stats"/></a>
-<a href="https://github.com/projecthanif?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=projecthanif&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@project's github-readme-streak-stats"/></a>
+<a href="https://github.com/ahmadintech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ahmadintech&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@ahmadintech's github-readme-stats"/></a>
+<a href="https://github.com/ahmadintech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadintech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@project's github-readme-streak-stats"/></a>
 
 </p>
 
@@ -127,16 +127,16 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@projecthanif">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=projecthanif&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@ahmadintech">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadintech&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 
 <p align="center">
-<a href="https://wakatime.com/@projecthanif"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=projecthanif&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@projecthanif's wakatime stats"/></a>
-<a href="https://github.com/projecthanif?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=projecthanif&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
+<a href="https://wakatime.com/@ahmadintech"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmadintech&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@ahmadintech's wakatime stats"/></a>
+<a href="https://github.com/ahmadintech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ahmadintech&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 
@@ -145,25 +145,25 @@
 
 <p align="center">
 <a href="https://wakatime.com/@018b247d-88dc-4ff4-aed9-f819ef46daf7"><img src="https://wakatime.com/badge/user/018b247d-88dc-4ff4-aed9-f819ef46daf7.svg" alt="Total time coded since Oct 12 2023" /></a>
-<a href="https://github.com/projecthanif?tab=following"><img src="https://img.shields.io/github/stars/projecthanif?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/projecthanif?tab=followers"><img src="https://img.shields.io/github/followers/projecthanif?&logoColor=red&style=social" alt="GitHub followers"></a>
+<a href="https://github.com/ahmadintech?tab=following"><img src="https://img.shields.io/github/stars/ahmadintech?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+<a href="https://github.com/ahmadintech?tab=followers"><img src="https://img.shields.io/github/followers/ahmadintech?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
 
 <p align="center">
-<a href="https://gist.github.com/projecthanif"><img src="https://profile-counter.glitch.me/{projecthanif}/count.svg" alt="projecthanif :: Visitor's Count" /></a>
+<a href="https://gist.github.com/ahmadintech"><img src="https://profile-counter.glitch.me/{ahmadintech}/count.svg" alt="ahmadintech :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 # Reach out to me #
-<a href="mailto:iamustapha213@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/projecthanif"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
+<a href="mailto:ahmadintech1@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="https://t.me/ahmadintech"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message">
 
 <!-- Please visit https://patience.onrender.com/ -->
 
 To comtact me.
-iamustapha213@gmail.com
+ahmadintech1@gmail.com
 
 # Welcome!
    
@@ -189,7 +189,7 @@ iamustapha213@gmail.com
          
 ✨ Database options   ✔MongoDB, ✔MySQL,
  
-✨ Payment gateway integration  ✔Paystack
+✨ Payment gateway integration  ✔Paystack ✔Remita 
         
 
 
@@ -199,10 +199,10 @@ iamustapha213@gmail.com
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-<!-- - 🔭 I’m currently working on [School Management System](https://github.com/projecthanif/SchoolManagementSystemUI)  -->
+<!-- - 🔭 I’m currently working on [College Application and Registeration portal](https://github.com/ahmadintech/)  -->
   
 
-<!-- - 🌱 I’m currently building School Management System with Laravel.  -->
+<!-- - 🌱 I’m currently building College Application and Registeration portal with Laravel.  -->
   
 
 - ❓ Ask me about anything related to PHP and related  technologies
@@ -256,17 +256,17 @@ iamustapha213@gmail.com
 <br/>  
 <!-- # Do you want to see my past work?
 ## Trademarktoday Business Website
-<a href="https://github.com/projecthanif/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
-<a href="https://github.com/projecthanif/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
+<a href="https://github.com/ahmadintech/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
+<a href="https://github.com/ahmadintech/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
 ## InvestFarmLand Business Website
-<a href="https://github.com/projecthanif/invest-farm" target="_blank">![InvestFarm](https://github.com/projecthanif/invest-farm/blob/master/public/logo1.png?raw=true)</a>
-<a href="https://github.com/projecthanif/invest-farm" target="_blank">![InvestFarm](https://github.com/projecthanif/invest-farm/blob/master/public/logo2.png?raw=true)</a>
+<a href="https://github.com/ahmadintech/invest-farm" target="_blank">![InvestFarm](https://github.com/ahmadintech/invest-farm/blob/master/public/logo1.png?raw=true)</a>
+<a href="https://github.com/ahmadintech/invest-farm" target="_blank">![InvestFarm](https://github.com/ahmadintech/invest-farm/blob/master/public/logo2.png?raw=true)</a>
 ## Google Map API Delivery Site
-<a href="https://github.com/projecthanif/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-1.png?raw=true)</a>
-<a href="https://github.com/projecthanif/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-2.png?raw=true)</a>
+<a href="https://github.com/ahmadintech/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-1.png?raw=true)</a>
+<a href="https://github.com/ahmadintech/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-2.png?raw=true)</a>
 ## Social Media Posting Website like Twitter
-<a href="https://github.com/projecthanif/dynamic-post-nextjs" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828317-621bc937-a2a7-461c-aa42-e59d0a60839f.png)</a>
-<a href="https://github.com/projecthanif/dynamic-post-nextjs" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828265-89363f4b-19b1-484d-b597-961bcc14efdf.png)</a>
-<a href="https://github.com/projecthanif/dynamic-post-nextjs" target="_blank">![DynamicPostNextJs](https://user-images.githubusercontent.com/132613676/260521935-fb82809d-2a4d-4d7c-92cb-ae338b260544.png?raw=true)</a>
+<a href="https://github.com/ahmadintech/dynamic-post-nextjs" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828317-621bc937-a2a7-461c-aa42-e59d0a60839f.png)</a>
+<a href="https://github.com/ahmadintech/dynamic-post-nextjs" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828265-89363f4b-19b1-484d-b597-961bcc14efdf.png)</a>
+<a href="https://github.com/ahmadintech/dynamic-post-nextjs" target="_blank">![DynamicPostNextJs](https://user-images.githubusercontent.com/132613676/260521935-fb82809d-2a4d-4d7c-92cb-ae338b260544.png?raw=true)</a>
 ## Freelancer Account Creating Bot
-<a href="https://github.com/projecthanif/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a> -->
+<a href="https://github.com/ahmadintech/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a> -->
